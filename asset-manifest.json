@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/consejera/static/css/main.968aa5fd.chunk.css",
+    "main.js": "/consejera/static/js/main.ee0811da.chunk.js",
+    "main.js.map": "/consejera/static/js/main.ee0811da.chunk.js.map",
+    "runtime-main.js": "/consejera/static/js/runtime-main.ca9df7c9.js",
+    "runtime-main.js.map": "/consejera/static/js/runtime-main.ca9df7c9.js.map",
+    "static/js/2.bf44d81a.chunk.js": "/consejera/static/js/2.bf44d81a.chunk.js",
+    "static/js/2.bf44d81a.chunk.js.map": "/consejera/static/js/2.bf44d81a.chunk.js.map",
+    "index.html": "/consejera/index.html",
+    "precache-manifest.c327b208fd380e72e70e0fdac9b8f092.js": "/consejera/precache-manifest.c327b208fd380e72e70e0fdac9b8f092.js",
+    "service-worker.js": "/consejera/service-worker.js",
+    "static/css/main.968aa5fd.chunk.css.map": "/consejera/static/css/main.968aa5fd.chunk.css.map",
+    "static/js/2.bf44d81a.chunk.js.LICENSE.txt": "/consejera/static/js/2.bf44d81a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/consejera/static/media/city.91c109fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca9df7c9.js",
+    "static/js/2.bf44d81a.chunk.js",
+    "static/css/main.968aa5fd.chunk.css",
+    "static/js/main.ee0811da.chunk.js"
+  ]
+}
